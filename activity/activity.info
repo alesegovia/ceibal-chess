@@ -1,0 +1,10 @@
+[Activity]
+name = Ajedrez
+license = GPLv2+
+bundle_id = org.x.ajedrezactivity
+class = chessactivity.ChessActivity
+icon = activity-icon
+activity_version = 1
+host_version = 1
+show_launcher = yes
+service_name = org.x.ajedrezactivity
